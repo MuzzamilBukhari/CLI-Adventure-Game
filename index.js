@@ -13,7 +13,6 @@ let healthPotionDropChance = 50; // percent
 let running = true;
 console.log("-".repeat(50));
 console.log("\tWELCOME TO THE DUNGEON!");
-console.log("-".repeat(50));
 GAME: while (running) {
     console.log("-".repeat(50));
     // select enemy randomly from enemies array
