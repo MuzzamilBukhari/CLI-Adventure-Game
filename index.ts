@@ -15,7 +15,8 @@ let healthPotionDropChance = 50; // percent
 
 let running = true;
 
-console.log("WELCOME TO THE DUNGEON!");
+console.log("-".repeat(50));
+console.log("\tWELCOME TO THE DUNGEON!");
 
 GAME: while (running) {
   console.log("-".repeat(50));
